@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi 👋, I'm Foriduzzaman Zihad
+A passionate Coder from Bangladesh.
+Coding
 
-<!--
-**mahinelien/mahinelien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+foriduzzamanzihad
 
-Here are some ideas to get you started:
+🔭 I’m currently working on MATLAB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning MERN
+
+💬 Ask me about MERN,Java,Python
+
+📫 How to reach me foriduzzamanzihaad@gmail.com
+
+Connect with me:
+foriduzzaman-zihad foriduzzamanzeehad _zeehad foriduzzaman_zihad
+
+Languages and Tools:
+angularjs bootstrap c css3 django express figma git html5 illustrator java javascript laravel matlab mssql mysql nodejs photoshop python react sass tensorflow typescript vuejs xd
+
+foriduzzamanzihad
+
+ foriduzzamanzihad
+
+foriduzzamanzihad
